@@ -59,7 +59,7 @@ class Tree:
 if __name__ == '__main__':
     tree = Tree()
 
-    data = [40, 30, 20, 50, 60, 80, 70]
+    data = [50, 30, 70, 40, 20, 60, 80]
     for dat in data:
         tree.insert_node(dat)
 
